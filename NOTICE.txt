@@ -1,0 +1,6 @@
+This project is open source under the MIT license.
+
+If you're using this project commercially and would like to support its development,
+please consider sponsoring the author or getting in touch at brecht.michael.b@gmail.com.
+
+I appreciate your support!
